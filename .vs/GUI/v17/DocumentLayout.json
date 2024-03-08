@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\GUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83F32410-BB52-4EDA-B543-069D59E600E4}|GUI\\GUI.csproj|D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\GUI\\gui\\splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83F32410-BB52-4EDA-B543-069D59E600E4}|GUI\\GUI.csproj|solutionrelative:gui\\splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F32410-BB52-4EDA-B543-069D59E600E4}|GUI\\GUI.csproj|D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\GUI\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F32410-BB52-4EDA-B543-069D59E600E4}|GUI\\GUI.csproj|solutionrelative:gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F32410-BB52-4EDA-B543-069D59E600E4}|GUI\\GUI.csproj|D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\GUI\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F32410-BB52-4EDA-B543-069D59E600E4}|GUI\\GUI.csproj|solutionrelative:gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F32410-BB52-4EDA-B543-069D59E600E4}|GUI\\GUI.csproj|D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\GUI\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83F32410-BB52-4EDA-B543-069D59E600E4}|GUI\\GUI.csproj|solutionrelative:gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F32410-BB52-4EDA-B543-069D59E600E4}|GUI\\GUI.csproj|D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\GUI\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F32410-BB52-4EDA-B543-069D59E600E4}|GUI\\GUI.csproj|solutionrelative:gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F32410-BB52-4EDA-B543-069D59E600E4}|GUI\\GUI.csproj|D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\GUI\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83F32410-BB52-4EDA-B543-069D59E600E4}|GUI\\GUI.csproj|solutionrelative:gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F32410-BB52-4EDA-B543-069D59E600E4}|GUI\\GUI.csproj|d:\\diploma iii\\kuliah\\praktikum pbo\\ilham munawar_ti 2b_220102037\\gui\\gui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F32410-BB52-4EDA-B543-069D59E600E4}|GUI\\GUI.csproj|solutionrelative:gui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F32410-BB52-4EDA-B543-069D59E600E4}|GUI\\GUI.csproj|d:\\diploma iii\\kuliah\\praktikum pbo\\ilham munawar_ti 2b_220102037\\gui\\gui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83F32410-BB52-4EDA-B543-069D59E600E4}|GUI\\GUI.csproj|solutionrelative:gui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F32410-BB52-4EDA-B543-069D59E600E4}|GUI\\GUI.csproj|D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\GUI\\gui\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F32410-BB52-4EDA-B543-069D59E600E4}|GUI\\GUI.csproj|solutionrelative:gui\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F32410-BB52-4EDA-B543-069D59E600E4}|GUI\\GUI.csproj|D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\GUI\\gui\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83F32410-BB52-4EDA-B543-069D59E600E4}|GUI\\GUI.csproj|solutionrelative:gui\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F32410-BB52-4EDA-B543-069D59E600E4}|GUI\\GUI.csproj|D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\GUI\\gui\\splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F32410-BB52-4EDA-B543-069D59E600E4}|GUI\\GUI.csproj|solutionrelative:gui\\splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F32410-BB52-4EDA-B543-069D59E600E4}|GUI\\GUI.csproj|D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\GUI\\gui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F32410-BB52-4EDA-B543-069D59E600E4}|GUI\\GUI.csproj|solutionrelative:gui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\GUI\\GUI\\Dashboard.cs",
+              "RelativeDocumentMoniker": "GUI\\Dashboard.cs",
+              "ToolTip": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\GUI\\GUI\\Dashboard.cs",
+              "RelativeToolTip": "GUI\\Dashboard.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T08:21:26.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\GUI\\GUI\\Dashboard.cs",
+              "RelativeDocumentMoniker": "GUI\\Dashboard.cs",
+              "ToolTip": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\GUI\\GUI\\Dashboard.cs [Design]",
+              "RelativeToolTip": "GUI\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T01:33:17.651Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SplashScreen.cs [Design]",
+              "DocumentMoniker": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\GUI\\GUI\\SplashScreen.cs",
+              "RelativeDocumentMoniker": "GUI\\SplashScreen.cs",
+              "ToolTip": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\GUI\\GUI\\SplashScreen.cs [Design]",
+              "RelativeToolTip": "GUI\\SplashScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T01:19:26.073Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SplashScreen.cs",
+              "DocumentMoniker": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\GUI\\GUI\\SplashScreen.cs",
+              "RelativeDocumentMoniker": "GUI\\SplashScreen.cs",
+              "ToolTip": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\GUI\\GUI\\SplashScreen.cs",
+              "RelativeToolTip": "GUI\\SplashScreen.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T01:22:30.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\GUI\\GUI\\Login.cs",
+              "RelativeDocumentMoniker": "GUI\\Login.cs",
+              "ToolTip": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\GUI\\GUI\\Login.cs",
+              "RelativeToolTip": "GUI\\Login.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwEsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T12:23:38.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\GUI\\GUI\\Login.cs",
+              "RelativeDocumentMoniker": "GUI\\Login.cs",
+              "ToolTip": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\GUI\\GUI\\Login.cs [Design]",
+              "RelativeToolTip": "GUI\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T12:17:13.284Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\GUI\\GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "GUI\\Form1.cs",
+              "ToolTip": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\GUI\\GUI\\Form1.cs",
+              "RelativeToolTip": "GUI\\Form1.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAADwv+QAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T12:01:59.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Calculator.cs [Design]",
+              "DocumentMoniker": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\GUI\\GUI\\Calculator.cs",
+              "RelativeDocumentMoniker": "GUI\\Calculator.cs",
+              "ToolTip": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\GUI\\GUI\\Calculator.cs [Design]",
+              "RelativeToolTip": "GUI\\Calculator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T10:37:39.227Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\GUI\\GUI\\Program.cs",
+              "RelativeDocumentMoniker": "GUI\\Program.cs",
+              "ToolTip": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\GUI\\GUI\\Program.cs",
+              "RelativeToolTip": "GUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T10:36:38.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\GUI\\GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "GUI\\Form1.cs",
+              "ToolTip": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\GUI\\GUI\\Form1.cs [Design]",
+              "RelativeToolTip": "GUI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T10:36:34.054Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\GUI\\GUI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\Form1.Designer.cs",
+              "ToolTip": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\GUI\\GUI\\Form1.Designer.cs",
+              "RelativeToolTip": "GUI\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T10:36:24.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\GUI\\GUI\\Calculator.cs",
+              "RelativeDocumentMoniker": "GUI\\Calculator.cs",
+              "ToolTip": "D:\\Diploma III\\Kuliah\\Praktikum PBO\\Ilham Munawar_TI 2B_220102037\\GUI\\GUI\\Calculator.cs",
+              "RelativeToolTip": "GUI\\Calculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T10:17:15.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

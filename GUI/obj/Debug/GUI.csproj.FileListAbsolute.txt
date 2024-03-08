@@ -1,0 +1,14 @@
+D:\Diploma III\Kuliah\Praktikum PBO\Ilham Munawar_TI 2B_220102037\GUI\GUI\bin\Debug\GUI.exe.config
+D:\Diploma III\Kuliah\Praktikum PBO\Ilham Munawar_TI 2B_220102037\GUI\GUI\bin\Debug\GUI.exe
+D:\Diploma III\Kuliah\Praktikum PBO\Ilham Munawar_TI 2B_220102037\GUI\GUI\bin\Debug\GUI.pdb
+D:\Diploma III\Kuliah\Praktikum PBO\Ilham Munawar_TI 2B_220102037\GUI\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Diploma III\Kuliah\Praktikum PBO\Ilham Munawar_TI 2B_220102037\GUI\GUI\obj\Debug\GUI.Form1.resources
+D:\Diploma III\Kuliah\Praktikum PBO\Ilham Munawar_TI 2B_220102037\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Diploma III\Kuliah\Praktikum PBO\Ilham Munawar_TI 2B_220102037\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Diploma III\Kuliah\Praktikum PBO\Ilham Munawar_TI 2B_220102037\GUI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Diploma III\Kuliah\Praktikum PBO\Ilham Munawar_TI 2B_220102037\GUI\GUI\obj\Debug\GUI.exe
+D:\Diploma III\Kuliah\Praktikum PBO\Ilham Munawar_TI 2B_220102037\GUI\GUI\obj\Debug\GUI.pdb
+D:\Diploma III\Kuliah\Praktikum PBO\Ilham Munawar_TI 2B_220102037\GUI\GUI\obj\Debug\GUI.Calculator.resources
+D:\Diploma III\Kuliah\Praktikum PBO\Ilham Munawar_TI 2B_220102037\GUI\GUI\obj\Debug\GUI.SplashScreen.resources
+D:\Diploma III\Kuliah\Praktikum PBO\Ilham Munawar_TI 2B_220102037\GUI\GUI\obj\Debug\GUI.Login.resources
+D:\Diploma III\Kuliah\Praktikum PBO\Ilham Munawar_TI 2B_220102037\GUI\GUI\obj\Debug\GUI.Dashboard.resources
